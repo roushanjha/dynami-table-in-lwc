@@ -1,0 +1,1 @@
+# dynami-table-in-lwc
